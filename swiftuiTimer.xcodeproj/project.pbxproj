@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C0551CE725B235E400929388 /* TimerMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0551CE625B235E400929388 /* TimerMode.swift */; };
+		C0551CEA25B240A500929388 /* TimerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0551CE925B240A500929388 /* TimerManager.swift */; };
 		C062069125AFEF07001C530F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C062069025AFEF07001C530F /* AppDelegate.swift */; };
 		C062069325AFEF07001C530F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C062069225AFEF07001C530F /* SceneDelegate.swift */; };
 		C062069525AFEF07001C530F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C062069425AFEF07001C530F /* ContentView.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		C0551CE625B235E400929388 /* TimerMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerMode.swift; sourceTree = "<group>"; };
+		C0551CE925B240A500929388 /* TimerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerManager.swift; sourceTree = "<group>"; };
 		C062068D25AFEF07001C530F /* swiftuiTimer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swiftuiTimer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C062069025AFEF07001C530F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C062069225AFEF07001C530F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				C062069025AFEF07001C530F /* AppDelegate.swift */,
 				C062069225AFEF07001C530F /* SceneDelegate.swift */,
 				C0551CE625B235E400929388 /* TimerMode.swift */,
+				C0551CE925B240A500929388 /* TimerManager.swift */,
 				C062069425AFEF07001C530F /* ContentView.swift */,
 				C062069925AFEF08001C530F /* Assets.xcassets */,
 				C062069E25AFEF08001C530F /* LaunchScreen.storyboard */,
@@ -154,6 +157,7 @@
 				C062069125AFEF07001C530F /* AppDelegate.swift in Sources */,
 				C062069825AFEF07001C530F /* swiftuiTimer.xcdatamodeld in Sources */,
 				C0551CE725B235E400929388 /* TimerMode.swift in Sources */,
+				C0551CEA25B240A500929388 /* TimerManager.swift in Sources */,
 				C062069325AFEF07001C530F /* SceneDelegate.swift in Sources */,
 				C062069525AFEF07001C530F /* ContentView.swift in Sources */,
 			);
